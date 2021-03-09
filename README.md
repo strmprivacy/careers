@@ -8,3 +8,4 @@ Our stack is cloud-first and keywords are Kotlin, Kafka and Kubernetes. We run a
 Currently, we're hiring for:
 * [Senior Software Engineer](https://github.com/streammachineio/jobs/blob/main/senior-software-engineer.md)
 * Business Development Intern (text to follow)
+* Privacy support intern (text to follow)
