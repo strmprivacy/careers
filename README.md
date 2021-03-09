@@ -6,5 +6,5 @@ We believe innovation and privacy can go together, and we're building a streamin
 Our stack is cloud-first and keywords are Kotlin, Kafka and Kubernetes. We run at significant scale and technical performance. 
 
 Currently, we're hiring for:
-* Senior Software Engineer
-* Business Development Intern
+* [Senior Software Engineer](https://github.com/streammachineio/jobs/blob/main/senior-software-engineer.md)
+* Business Development Intern (text to follow)
