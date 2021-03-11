@@ -4,6 +4,7 @@
 * You love K3: Kafka, Kotlin and Kubernetes.
 * Streaming is not a new domain for you and you've had your fair share of serialization challenges (in e.g. Avro, Json Schema, Protobuf, etc)
 * You know your way with REST, OpenAPI, and preferably GCP/AWS, gRPC, Terraform and Gradle.
+* You're familiar with and prefer functional programming over a pure object oriented and declarative approach.
 * You don't shy away from exploring and experimenting with new solutions and technologies to increase our performance. "Performance" to us is defined as the product of adoption, stability and awesome stack metrics (including distribution in a team through structured, well-tested and readable code). 
 * You enjoy working together with our (prospective) customers as much as with your direct colleagues, both in production and concepting stages. 
 * You value fun, honesty, directness, technical competence and enjoy being part of the rollercoaster of a startup with a deeply technical product and heart. 
